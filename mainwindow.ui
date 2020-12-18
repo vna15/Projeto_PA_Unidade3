@@ -41,10 +41,10 @@
    <widget class="QGroupBox" name="groupBoxPlanos">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>620</y>
+      <x>10</x>
+      <y>0</y>
       <width>931</width>
-      <height>91</height>
+      <height>71</height>
      </rect>
     </property>
     <property name="font">
@@ -54,7 +54,7 @@
      </font>
     </property>
     <property name="title">
-     <string>Planos</string>
+     <string>Planos Z</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
@@ -97,9 +97,9 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>20</y>
+      <y>80</y>
       <width>921</width>
-      <height>581</height>
+      <height>621</height>
      </rect>
     </property>
     <property name="sizePolicy">
@@ -672,7 +672,7 @@
   <widget class="QStatusBar" name="statusBar"/>
   <action name="actionEscultor">
    <property name="text">
-    <string>Escultor</string>
+    <string>Sculptor</string>
    </property>
    <property name="font">
     <font>
